@@ -1,0 +1,50 @@
+body {
+  background-color: aliceblue;
+  size:100%;
+}
+.bg{
+	background-image:url("background.png");
+	size: 100%;
+	padding: 100px;
+	margin: 20px;
+	background-size: 100% 100%;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: cyan;
+}
+p {
+	font-family: "Purisa";
+	font-size: 20px;
+	color: white;
+}
+.greenrequirement{
+	color: green;
+}
+.about{
+	color: white;
+	margin-left: 20%;
+	margin-bottom: 1%;
+	width: 65%;
+}
+h1{
+	text-align: center;
+}
+h3{
+	margin-left: 7%;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+.image { 
+	border-radius: 50px;
+	border-style: solid;
+	border-color: cyan;
+	height: 200px;
+	width: 200px;
+	margin-left: 40%;
+}
+h2{
+	color: white;
+	margin-left: 12%;
+	font-size: 35px;
+}
